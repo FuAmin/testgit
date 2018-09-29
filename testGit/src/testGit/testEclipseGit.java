@@ -6,7 +6,7 @@ public class testEclipseGit {
 		/**
 		 *amin    
 		 */
-		System.out.println("aaaaaaaaaaaa");
+		System.out.println("tianjialehahahhahaddddaaaaaaaaaaaa");
 	}
 
 }
